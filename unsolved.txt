@@ -3,3 +3,4 @@ Leetcode 346. Moving Average from Data Stream
 Leetcode 281. Zigzag Iterator
 Leetcode 1429. First Unique Number
 Leetcode 362. Design Hit Counter
+146. LRU Cache
