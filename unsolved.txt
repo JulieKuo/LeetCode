@@ -5,3 +5,4 @@
 362. Design Hit Counter
 146. LRU Cache //不會
 348. Design Tic-Tac-Toe
+1086. High Five
