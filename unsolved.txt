@@ -6,3 +6,7 @@
 146. LRU Cache //不會
 348. Design Tic-Tac-Toe
 1086. High Five
+644. Maximum Average Subarray II
+1060. Missing Element in Sorted Array
+1062. Longest Repeating Substring
+1891. Cutting Ribbons
