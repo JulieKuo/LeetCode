@@ -14,3 +14,5 @@
 186. Reverse Words in a String II
 340. Longest Substring with At Most K Distinct Characters
 314 Binary Tree Vertical Order Traversal
+490. The Maze
+323. Connected Component in Undirected Graph
