@@ -16,3 +16,5 @@
 314 Binary Tree Vertical Order Traversal
 490. The Maze
 323. Connected Component in Undirected Graph
+444. Sequence Reconstruction
+269. Alien Dictionary
