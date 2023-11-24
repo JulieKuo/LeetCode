@@ -24,3 +24,5 @@
 333. Largest BST Subtree
 285. Inorder Successor in BST
 291. Word Pattern II
+1087. Brace Expansion
+1274. Number of Ships in a Rectangle
