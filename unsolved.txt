@@ -26,3 +26,4 @@
 291. Word Pattern II
 1087. Brace Expansion
 1274. Number of Ships in a Rectangle
+694. Number of Distinct Islands
