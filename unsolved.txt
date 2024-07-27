@@ -1,4 +1,3 @@
-# Queue
 346. Moving Average from Data Stream
 281. Zigzag Iterator
 1429. First Unique Number
