@@ -3,3 +3,6 @@
 morse code (概念類似以下兩題)
  - 139. Word Break
  - 140. Word Break II
+Trie Prefix Count (概念類似以下兩題)
+ - 208. Implement Trie (Prefix Tree)
+ - 211. Design Add and Search Words Data Structure
