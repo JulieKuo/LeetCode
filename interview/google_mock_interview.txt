@@ -1,9 +1,10 @@
 133. Clone Graph
-269. Alien Dictionary
-morse code (概念類似以下兩題)
+269. Alien Dictionary (Extract Alphabet)
+Morse Code Translation (概念類似以下兩題)
  - 139. Word Break
  - 140. Word Break II
-Trie Prefix Count (概念類似以下兩題)
+Prefix Matching (概念類似以下兩題)
  - 208. Implement Trie (Prefix Tree)
  - 211. Design Add and Search Words Data Structure
-Reducible Word
+Reducible Words
+20. Valid Parentheses (Balanced parentheses)
