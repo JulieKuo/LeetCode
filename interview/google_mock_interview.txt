@@ -1,10 +1,13 @@
 133. Clone Graph
 269. Alien Dictionary (Extract Alphabet)
 Morse Code Translation (概念類似以下兩題)
- - 139. Word Break
- - 140. Word Break II
+  - 139. Word Break
+  - 140. Word Break II
 Prefix Matching (概念類似以下兩題)
- - 208. Implement Trie (Prefix Tree)
- - 211. Design Add and Search Words Data Structure
+  - 208. Implement Trie (Prefix Tree)
+  - 211. Design Add and Search Words Data Structure
 Reducible Words
 20. Valid Parentheses (Balanced parentheses)
+Equilibrium Array (以下兩題的結合，解法都相同，只是一個解或多個解)
+  - 724. Find Pivot Index
+  - 1991. Find the Middle Index in Array
