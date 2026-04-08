@@ -11,3 +11,4 @@ Reducible Words
 Equilibrium Array (以下兩題的結合，解法都相同，只是一個解或多個解)
   - 724. Find Pivot Index
   - 1991. Find the Middle Index in Array
+296. Best Meeting Point (Meeting in Manhattan)
