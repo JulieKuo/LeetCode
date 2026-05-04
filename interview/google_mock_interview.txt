@@ -1,5 +1,14 @@
+242. Valid Anagram (Anagrams)
+383. Ransom Note (Anagrams Note)
+20. Valid Parentheses (Balanced parentheses)
 133. Clone Graph
+Equilibrium Array (以下兩題的結合，解法都相同，只是一個解或多個解)
+  - 724. Find Pivot Index
+  - 1991. Find the Middle Index in Array
 269. Alien Dictionary (Extract Alphabet)
+378. Kth Smallest Element in a Sorted Matrix (kth Element in a Sorted Matrix)
+296. Best Meeting Point (Meeting in Manhattan)
+Missing Intervals
 Morse Code Translation (概念類似以下兩題)
   - 139. Word Break
   - 140. Word Break II
@@ -7,13 +16,8 @@ Prefix Matching (概念類似以下兩題)
   - 208. Implement Trie (Prefix Tree)
   - 211. Design Add and Search Words Data Structure
 Reducible Words
-20. Valid Parentheses (Balanced parentheses)
-Equilibrium Array (以下兩題的結合，解法都相同，只是一個解或多個解)
-  - 724. Find Pivot Index
-  - 1991. Find the Middle Index in Array
-296. Best Meeting Point (Meeting in Manhattan)
-Missing Intervals
 852. Peak Index in a Mountain Array (Up and Down Array)
-242. Valid Anagram (Anagrams)
-383. Ransom Note (Anagrams Note)
-378. Kth Smallest Element in a Sorted Matrix (kth Element in a Sorted Matrix)
+
+159. Longest Substring with At Most Two Distinct Characters (Longest Substring with a Subset of the Alphabet)
+Phone Number Translation
+Substrings and Anagrams
